@@ -1,0 +1,14 @@
+Backend
+
+# cd server
+# npm i 
+# npm start
+
+FrontEnd
+
+# cd client
+# npm i
+# npm start
+
+Now Application running on port 3000
+http://localhost:3000/
